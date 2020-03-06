@@ -1,4 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the second line.
 This is yet another line.
-Simulate change by other developers.
+Simulate change by other developers, got it.
